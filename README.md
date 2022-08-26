@@ -1,4 +1,7 @@
 # TOGAB
+
+# i am still making the videos , and uploading the program files and finishing it 
+
 This program allows you to make a full functions mod menu and/or injector for APK , just enter a keyword like Diamond, and it will do all the rest job.
 
 - you just select the apk 
